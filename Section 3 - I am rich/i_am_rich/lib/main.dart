@@ -8,7 +8,7 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: Text("I am rich"),
-          backgroundColor: Colors.blueGrey[800],
+          backgroundColor: Colors.blueGrey[900],
         ),
         backgroundColor: Colors.blueGrey,
         body: Center(
